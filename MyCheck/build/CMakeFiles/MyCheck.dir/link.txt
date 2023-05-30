@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared  -o libMyCheck.so CMakeFiles/MyCheck.dir/MyCheck.o 

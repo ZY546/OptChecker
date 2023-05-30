@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared  -o libMyInsert.so CMakeFiles/MyInsert.dir/MyInsert.o 
