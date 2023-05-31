@@ -1,0 +1,158 @@
+/*
+yarpgen version 2.0 (build dd8c204 on 2023:05:31)
+Seed: 2238270505
+Invocation: ../yarpgen -o .
+*/
+#include "init.h"
+#include <algorithm>
+void test(int var_0, int var_1, int var_2, int var_3, int var_4, int var_5, int var_6, int var_7, int var_8, int var_9, int var_10, int var_11, int var_12, int var_13, int var_14, int var_15, int var_16, int var_17, int var_18, int var_19) {
+    if (((/* implicit */bool) ((((((/* implicit */bool) ((var_6) + (0)))) ? (((((/* implicit */bool) -1)) ? (var_8) : (402653184))) : (((var_0) + (var_3))))) + (((((((/* implicit */bool) var_14)) ? (0) : (var_16))) + (((((/* implicit */bool) 0)) ? (var_6) : (0))))))))
+    {
+        var_20 = ((/* implicit */int) ((((((/* implicit */bool) ((268435448) + (var_13)))) ? (((var_14) / (30))) : (((((/* implicit */bool) 33554431)) ? (8323072) : (var_15))))) / (((((((/* implicit */bool) var_1)) ? (var_15) : (var_4))) - ((-2147483647 - 1))))));
+        if (((/* implicit */bool) ((((/* implicit */bool) ((((var_5) + (var_10))) + (((((/* implicit */bool) var_10)) ? (var_8) : (var_5)))))) ? (((((((/* implicit */bool) var_9)) ? (var_7) : (-1))) - (((((/* implicit */bool) var_10)) ? ((-2147483647 - 1)) : (var_18))))) : (((((var_4) + (var_12))) - (((var_1) - (var_11))))))))
+        {
+            var_21 = ((/* implicit */int) ((((/* implicit */bool) ((((((/* implicit */bool) (-2147483647 - 1))) ? (1) : (var_15))) / (((((/* implicit */bool) var_0)) ? (var_11) : (1)))))) ? (((((/* implicit */bool) ((var_13) + (8191)))) ? (-1) : (((var_1) / (var_12))))) : (((((/* implicit */bool) ((0) + (-19)))) ? (((0) + (2147483633))) : (((var_8) / ((-2147483647 - 1))))))));
+            var_22 = ((/* implicit */int) 19);
+            var_23 = ((/* implicit */int) ((((((var_0) + (var_12))) - (2147483647))) + (((((/* implicit */bool) ((((/* implicit */bool) var_8)) ? (0) : (var_5)))) ? (((var_11) + (var_6))) : (((((/* implicit */bool) var_7)) ? (var_5) : (536739840)))))));
+myinsertn0 = var_0 + var_12;
+
+myinsertn1 = var_11 + var_6;
+
+            var_24 = ((/* implicit */int) ((((/* implicit */bool) ((-1) - (((((/* implicit */bool) 131071)) ? ((-2147483647 - 1)) : (-1)))))) ? (((((/* implicit */bool) ((((/* implicit */bool) var_13)) ? (-1) : (0)))) ? (((((/* implicit */bool) var_9)) ? (var_6) : (var_1))) : (((var_18) - (var_4))))) : (((((/* implicit */bool) ((var_8) + (var_6)))) ? (((((/* implicit */bool) var_14)) ? (var_8) : (var_11))) : (((var_7) + (var_1)))))));
+myinsertn2 = var_8 + var_6;
+
+myinsertn3 = var_7 + var_1;
+
+            var_25 = ((/* implicit */int) ((((/* implicit */bool) ((((((/* implicit */bool) var_18)) ? (2096128) : (-31))) - (((var_14) - ((-2147483647 - 1))))))) ? (((((((/* implicit */bool) var_5)) ? (1879048192) : (var_16))) - (((((/* implicit */bool) 2147483647)) ? (var_0) : (var_4))))) : (((((/* implicit */bool) ((var_1) + (-8323073)))) ? (((-1) + (var_14))) : (((((/* implicit */bool) 8)) ? (var_6) : (var_1)))))));
+            var_26 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_13) - (var_18)))) ? (((((/* implicit */bool) (-2147483647 - 1))) ? ((-2147483647 - 1)) : (0))) : (((((/* implicit */bool) var_0)) ? (0) : (0)))))) ? (((((/* implicit */bool) ((var_13) + (var_2)))) ? (((1023) + (var_19))) : (((var_14) + (var_5))))) : (((((/* implicit */bool) ((var_2) + (var_5)))) ? (((var_0) + (var_1))) : (((var_6) - (var_5)))))));
+myinsertn4 = var_13 + var_2;
+
+myinsertn5 = var_14 + var_5;
+
+myinsertn6 = var_2 + var_5;
+
+myinsertn7 = var_0 + var_1;
+
+            var_27 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_1) + (0)))) ? (-2048) : (((var_14) + (var_16)))))) ? (((((var_18) - (var_13))) + (((((/* implicit */bool) var_0)) ? (var_7) : (var_18))))) : (((((/* implicit */bool) ((((/* implicit */bool) var_8)) ? (var_8) : (var_6)))) ? (((var_3) - (var_2))) : (((((/* implicit */bool) var_1)) ? (2147483647) : (var_1)))))));
+myinsertn8 = var_14 + var_16;
+
+        }
+
+        var_28 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) var_9)) ? (var_12) : (var_2)))) ? (((var_1) - (var_3))) : ((((-2147483647 - 1)) + (var_16)))))) ? (((((/* implicit */bool) ((((/* implicit */bool) 8388607)) ? (-1) : (var_8)))) ? (((((/* implicit */bool) var_6)) ? (2147483647) : (var_11))) : (((var_10) + (var_15))))) : (((((536870911) + (8191))) - (((((/* implicit */bool) var_7)) ? (var_11) : (var_18)))))));
+myinsertn9 = var_10 + var_15;
+
+        var_29 = ((/* implicit */int) ((((((/* implicit */bool) ((8388607) ^ (var_5)))) ? (((((/* implicit */bool) var_18)) ? (var_19) : (var_9))) : ((((-2147483647 - 1)) + (0))))) + (((((var_4) + (var_11))) - (((var_13) + (var_4)))))));
+myinsertn10 = var_4 + var_11;
+
+myinsertn11 = var_13 + var_4;
+
+        var_30 = ((/* implicit */int) ((((/* implicit */bool) (((((-2147483647 - 1)) - (-1))) - (((var_3) + (var_14)))))) ? (((((7) + (var_6))) + (((var_4) / (var_12))))) : (((((/* implicit */bool) ((var_18) + (-1)))) ? (((var_15) + (var_5))) : (((33554431) + (65535)))))));
+myinsertn12 = var_3 + var_14;
+
+myinsertn13 = var_15 + var_5;
+
+    }
+
+    var_31 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_12) + (0)))) ? (((var_0) / (-26))) : (((var_16) + (var_15)))))) ? (((((((/* implicit */bool) var_3)) ? (var_11) : (0))) + (((-7) / (var_17))))) : (((((var_19) / (var_0))) + (((var_0) + (var_10)))))));
+myinsertn14 = var_16 + var_15;
+
+myinsertn15 = var_0 + var_10;
+
+    var_32 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) 0)) ? (var_10) : (0)))) ? (((-1) - (var_15))) : (((var_0) - (-2147483641))))) - (((((((/* implicit */bool) var_12)) ? (0) : (2047))) + (((((/* implicit */bool) var_15)) ? (1015808) : (131071)))))));
+    var_33 = ((/* implicit */int) ((((/* implicit */bool) ((((var_2) + (0))) / (((var_11) + (2147483647)))))) ? (((-1) - (((var_13) + (var_11))))) : (((((((/* implicit */bool) var_16)) ? (1) : (-1))) + (((520093696) + (var_14)))))));
+myinsertn16 = var_13 + var_11;
+
+    if (((/* implicit */bool) 24))
+    {
+        var_34 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) var_17)) ? (19) : (var_7)))) ? (((((/* implicit */bool) var_3)) ? (-1) : ((-2147483647 - 1)))) : (((((/* implicit */bool) var_0)) ? (var_2) : (var_9)))))) ? (((((/* implicit */bool) ((var_14) / (-1)))) ? (((((/* implicit */bool) -1)) ? (0) : (-1))) : (((var_6) + (var_14))))) : (((((((/* implicit */bool) var_0)) ? (-8219) : (var_9))) - (((((/* implicit */bool) var_1)) ? ((-2147483647 - 1)) : ((-2147483647 - 1))))))));
+myinsertn17 = var_6 + var_14;
+
+        var_35 = ((/* implicit */int) ((((((var_4) + (2147483638))) + (((var_5) / (var_9))))) + (((((var_10) - (var_9))) / (((((/* implicit */bool) var_4)) ? (var_0) : (var_7)))))));
+        var_36 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) var_4)) ? (var_12) : (var_2)))) ? (((((/* implicit */bool) var_16)) ? (64) : (var_3))) : (((2047) / ((-2147483647 - 1)))))) + (((((((/* implicit */bool) var_7)) ? (var_17) : (var_8))) + (((((/* implicit */bool) 8323072)) ? (var_15) : (var_8)))))));
+        var_37 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_14) - (var_4)))) ? (0) : (((2147483647) + (0)))))) ? (((((((/* implicit */bool) var_11)) ? (var_5) : (var_3))) + (((var_6) - (2147483647))))) : (((((/* implicit */bool) ((var_17) + (8191)))) ? (((-21) + (var_7))) : (((((/* implicit */bool) var_19)) ? (2147483647) : ((-2147483647 - 1))))))));
+        if (((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) var_1)) ? (var_7) : (var_2)))) ? (((20) / (var_12))) : (((((/* implicit */bool) var_11)) ? (var_10) : (-2147483628)))))) ? (((((((/* implicit */bool) var_18)) ? (var_13) : ((-2147483647 - 1)))) * (((var_13) / (var_16))))) : (((((/* implicit */bool) ((((/* implicit */bool) var_8)) ? (var_17) : (var_11)))) ? (((((/* implicit */bool) 17)) ? (var_18) : (0))) : (((-1) + (3))))))))
+        {
+            var_38 = ((/* implicit */int) -2147483645);
+            var_39 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) var_11)) ? (var_15) : (-18)))) ? (((-1) + (var_16))) : (((((/* implicit */bool) 262143)) ? (var_18) : (var_17))))) + (((((/* implicit */bool) ((var_14) | (-11)))) ? (((((/* implicit */bool) var_3)) ? ((-2147483647 - 1)) : (var_1))) : (((((var_13) + (2147483647))) << (((((var_7) + (272094495))) - (13)))))))));
+            var_23 = ((/* implicit */int) ((((((var_19) - (8323072))) + (((((/* implicit */bool) var_7)) ? (0) : (var_2))))) + (((((/* implicit */bool) ((((/* implicit */bool) var_17)) ? (2145386496) : (var_1)))) ? ((((-2147483647 - 1)) + (2147483647))) : (((var_5) + (var_7)))))));
+myinsertn18 = var_5 + var_7;
+
+            var_26 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) 12582912)) ? (var_8) : (var_12)))) ? (((-33554427) / (var_11))) : (((var_8) - (var_18)))))) ? (((((/* implicit */bool) ((((/* implicit */bool) var_12)) ? (32) : (0)))) ? (((var_13) + (-1))) : (((-2147483641) - (var_8))))) : (268435455)));
+            if (((/* implicit */bool) ((((/* implicit */bool) ((((((/* implicit */bool) var_2)) ? (2147483647) : (65536))) + (((0) + (0)))))) ? (((((/* implicit */bool) ((var_1) - (var_10)))) ? (((((/* implicit */bool) var_7)) ? (var_17) : (var_13))) : (((0) * (var_3))))) : (((((/* implicit */bool) ((((/* implicit */bool) var_3)) ? (-1) : ((-2147483647 - 1))))) ? (((((/* implicit */bool) var_3)) ? ((-2147483647 - 1)) : (var_4))) : (((((/* implicit */bool) var_9)) ? (var_0) : (var_3))))))))
+            {
+                var_37 = ((/* implicit */int) -5);
+                var_35 = ((/* implicit */int) ((((((((/* implicit */bool) 2147483647)) ? (var_18) : (-1))) / (((var_8) / (var_17))))) + (((((0) + (2047))) + (((var_1) / (var_14)))))));
+                var_33 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((2147483647) >> (((var_17) + (374887877)))))) ? (((var_15) | (-33554431))) : (((((/* implicit */bool) var_19)) ? (2147483647) : (var_2)))))) ? (((((/* implicit */bool) ((var_0) & (var_15)))) ? (((33554431) | (var_4))) : (((((/* implicit */bool) var_0)) ? (33538048) : (-2147483636))))) : (((((((/* implicit */bool) var_19)) ? (var_0) : (var_5))) | (((((var_11) + (2147483647))) << (((((var_17) + (374887880))) - (12)))))))));
+                var_35 = ((/* implicit */int) ((((((/* implicit */bool) ((var_1) / (var_1)))) ? (((var_3) - (var_5))) : (((((/* implicit */bool) var_12)) ? (-1073741824) : (1006632960))))) / (((((((/* implicit */bool) (-2147483647 - 1))) ? (2047) : (var_2))) + (((((/* implicit */bool) 1)) ? (var_8) : (-1073741824)))))));
+                var_26 = ((/* implicit */int) ((((((((/* implicit */bool) var_0)) ? (33554431) : (var_0))) + (((var_2) - (var_1))))) - (((((((/* implicit */bool) 23)) ? (65504) : (4192256))) / (((((/* implicit */bool) var_12)) ? (var_19) : (var_7)))))));
+                var_32 = ((/* implicit */int) ((((((0) + ((-2147483647 - 1)))) - ((((-2147483647 - 1)) - (var_1))))) - (((((((/* implicit */bool) var_14)) ? (var_2) : (-30))) + (((((/* implicit */bool) var_1)) ? (var_11) : (var_13)))))));
+                var_29 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_1) + (-33554452)))) ? (((((/* implicit */bool) 268431360)) ? (var_8) : (2147483647))) : (((var_9) - (var_1)))))) ? (((((/* implicit */bool) ((((/* implicit */bool) var_4)) ? (var_6) : (var_11)))) ? (0) : (((((/* implicit */bool) 1023)) ? (var_10) : (var_2))))) : (((((/* implicit */bool) ((((/* implicit */bool) -1)) ? (-18) : (var_13)))) ? (((((/* implicit */bool) (-2147483647 - 1))) ? (-31) : (var_4))) : (((((/* implicit */bool) var_8)) ? (var_14) : (var_3)))))));
+                var_21 = ((/* implicit */int) ((((((var_15) / (var_6))) + (((var_5) - (var_5))))) / (((((-1) * (65535))) + (((((/* implicit */bool) var_14)) ? (var_11) : (var_15)))))));
+                var_22 = ((/* implicit */int) ((((/* implicit */bool) (-2147483647 - 1))) ? (((((/* implicit */bool) ((((/* implicit */bool) 2147483645)) ? (16777216) : (var_18)))) ? (((var_14) ^ (var_4))) : (((0) ^ (0))))) : (((((var_8) ^ (var_11))) ^ (((-11) ^ (var_3)))))));
+                var_27 = ((/* implicit */int) ((((((/* implicit */bool) ((-134217728) + (2147483638)))) ? (((((/* implicit */bool) var_14)) ? (var_18) : (8388607))) : (((-1) + (9))))) - (((((134217726) + (-2048))) - (((-4) - ((-2147483647 - 1))))))));
+            }
+
+            
+if (myinsertn8 != var_14 + var_16){ myMark=19; }
+var_30 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_13) / (var_14)))) ? (((((/* implicit */bool) var_5)) ? (var_7) : (var_17))) : (((((/* implicit */bool) var_2)) ? (-3) : (7)))))) ? (((((((/* implicit */bool) 0)) ? (var_6) : (var_13))) + (((-1) + (var_17))))) : (((((var_14) + (var_16))) + (((((/* implicit */bool) var_9)) ? (var_11) : (var_6)))))));
+myinsertn19 = var_14 + var_16;
+
+            var_39 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) 0)) ? (var_2) : (536838144)))) ? (((((/* implicit */bool) -1)) ? (268435392) : (var_15))) : (((((/* implicit */bool) var_0)) ? (var_7) : (var_10))))) + (((((((/* implicit */bool) -33554429)) ? (-8187) : (var_8))) + (((((/* implicit */bool) var_19)) ? (-8) : (2147483647)))))));
+            var_23 = ((/* implicit */int) ((((((((/* implicit */bool) var_11)) ? (var_15) : ((-2147483647 - 1)))) - (((var_7) / (var_2))))) / (((((/* implicit */bool) ((var_8) - (var_7)))) ? (((((/* implicit */bool) var_9)) ? (var_12) : (var_4))) : (((((/* implicit */bool) var_11)) ? (var_6) : (var_0)))))));
+        }
+
+        var_26 = ((/* implicit */int) ((((((/* implicit */bool) ((12) - (var_18)))) ? (((((/* implicit */bool) var_11)) ? (var_12) : (var_14))) : (((((/* implicit */bool) var_8)) ? (var_4) : ((-2147483647 - 1)))))) + (((((var_8) | (0))) + (((((/* implicit */bool) var_17)) ? (262143) : (var_0)))))));
+        var_20 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) 16128)) ? (0) : (var_18)))) ? (((((/* implicit */bool) var_13)) ? (134217472) : (0))) : (((var_8) - ((-2147483647 - 1)))))) + (((((/* implicit */bool) ((var_2) - (var_18)))) ? (((((/* implicit */bool) var_19)) ? (var_12) : (var_11))) : (((((/* implicit */bool) var_12)) ? (var_19) : (134184960)))))));
+        var_26 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) 63)) ? (var_11) : (-8185)))) ? (((var_18) + (var_15))) : (((((/* implicit */bool) var_16)) ? (-1) : (14680064)))))) ? (((((((/* implicit */bool) var_15)) ? (-1) : (var_14))) + (((var_18) / (var_0))))) : (((((1) - (8191))) + (((((/* implicit */bool) 131008)) ? (var_8) : (var_15)))))));
+myinsertn20 = var_18 + var_15;
+
+        var_32 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) var_6)) ? (var_4) : (134217216)))) || (((/* implicit */bool) ((((/* implicit */bool) 18)) ? (var_0) : (var_7)))))) || (((/* implicit */bool) ((((((/* implicit */bool) var_19)) || (((/* implicit */bool) 29)))) ? (((((/* implicit */bool) var_16)) ? (var_1) : (var_11))) : (((((/* implicit */bool) (-2147483647 - 1))) ? (var_16) : (var_0))))))));
+    }
+
+    var_36 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_10) - ((-2147483647 - 1))))) ? (((((/* implicit */bool) -1)) ? (var_19) : ((-2147483647 - 1)))) : (((((/* implicit */bool) (-2147483647 - 1))) ? (var_4) : (2047)))))) ? (((((var_12) / (-1))) + (((var_10) / (var_12))))) : (((((/* implicit */bool) ((-8323072) / (268435456)))) ? (((((/* implicit */bool) 31)) ? (18) : (8187))) : (((var_8) - (var_17)))))));
+    
+if (myinsertn3 != var_7 + var_1){ myMark=21; }
+var_31 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_10) + (15)))) ? (((((/* implicit */bool) var_6)) ? (8323072) : (var_2))) : (((var_7) + (var_1)))))) ? (((((/* implicit */bool) ((((/* implicit */bool) var_16)) ? (3072) : (var_7)))) ? (((-19) / (var_0))) : (((var_4) - ((-2147483647 - 1)))))) : (((((/* implicit */bool) 8197)) ? (((((/* implicit */bool) (-2147483647 - 1))) ? ((-2147483647 - 1)) : (-1))) : (((-1) + (var_0)))))));
+myinsertn21 = var_7 + var_1;
+
+    var_28 = ((/* implicit */int) ((((((((/* implicit */bool) (-2147483647 - 1))) ? (2093056) : (var_4))) / (((var_6) + (8184))))) + (((((/* implicit */bool) ((((/* implicit */bool) 2147483647)) ? (var_2) : (-1)))) ? (((((/* implicit */bool) 2)) ? (var_9) : (var_2))) : (((var_15) + (-9)))))));
+    if (((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) var_3)) ? (var_10) : (var_6)))) ? (((3670016) + (24576))) : (((((/* implicit */bool) var_18)) ? (var_4) : (var_12)))))) ? (((((/* implicit */bool) 10)) ? (((((/* implicit */bool) var_18)) ? (var_11) : (var_15))) : (((((/* implicit */bool) var_5)) ? (var_17) : (var_15))))) : (((((/* implicit */bool) ((((/* implicit */bool) var_5)) ? (2147483647) : (var_6)))) ? (((((/* implicit */bool) -8323073)) ? (129024) : (-1))) : (((7) / (var_3))))))))
+    {
+        var_27 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_15) + (var_17)))) ? (((2147483647) + (var_0))) : (((266338304) + (var_5)))))) ? (((((/* implicit */bool) ((((/* implicit */bool) var_4)) ? (0) : ((-2147483647 - 1))))) ? (((var_14) - (var_18))) : (((((/* implicit */bool) var_14)) ? (var_16) : (var_1))))) : (30)));
+myinsertn22 = var_15 + var_17;
+
+        var_29 = ((/* implicit */int) ((((/* implicit */bool) ((((((/* implicit */bool) -31)) ? (var_13) : (var_16))) + (((((/* implicit */bool) var_10)) ? (var_19) : (0)))))) ? (((((/* implicit */bool) ((var_3) + (14336)))) ? (((((/* implicit */bool) var_19)) ? (-1) : (-2147483641))) : (((65528) + (var_9))))) : (0)));
+        
+if (myinsertn15 != var_0 + var_10){ myMark=23; }
+var_22 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) var_0)) ? (805306368) : (16)))) ? (((var_17) - (-2147483629))) : (((2147483647) + (var_17)))))) ? (((((/* implicit */bool) ((4193280) - (var_10)))) ? (((((/* implicit */bool) (-2147483647 - 1))) ? (var_19) : (0))) : (((((/* implicit */bool) var_19)) ? (14680064) : (0))))) : (((((/* implicit */bool) ((var_0) + (var_10)))) ? (((((/* implicit */bool) var_8)) ? (var_16) : (var_15))) : (((((/* implicit */bool) -1)) ? (0) : (-2147483625)))))));
+myinsertn23 = var_0 + var_10;
+
+        var_30 = ((/* implicit */int) ((((((((/* implicit */bool) var_7)) ? (var_11) : (0))) + (((((/* implicit */bool) var_0)) ? (var_7) : (var_1))))) / (((((((/* implicit */bool) 201326592)) ? (var_10) : (var_4))) + (((((/* implicit */bool) var_7)) ? (30) : (30)))))));
+        var_22 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) 0)) ? ((-2147483647 - 1)) : (var_0)))) ? (((((/* implicit */bool) var_19)) ? (var_14) : (var_10))) : (((var_18) / (1073676288))))) - (((((var_8) + (17))) - (((((/* implicit */bool) 11)) ? (var_4) : (var_3)))))));
+        var_23 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) var_0)) ? (var_19) : (var_14)))) ? (((((/* implicit */bool) var_15)) ? ((-2147483647 - 1)) : (0))) : ((((-2147483647 - 1)) - (var_10))))) - (((((-8323073) + (var_10))) + (((255) - (var_6)))))));
+        
+if (myinsertn0 != var_0 + var_12){ myMark=24; }
+var_27 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((((/* implicit */bool) var_11)) ? (var_6) : (0)))) ? (((((/* implicit */bool) 805306368)) ? (var_11) : (33554431))) : (((((/* implicit */bool) 0)) ? (var_18) : (0)))))) ? (((2147483647) + (((var_9) / (2147483647))))) : (((((/* implicit */bool) ((var_9) - (var_8)))) ? (((((/* implicit */bool) var_0)) ? ((-2147483647 - 1)) : (var_18))) : (((var_12) + (var_0)))))));
+myinsertn24 = var_12 + var_0;
+
+        var_35 = ((/* implicit */int) 528482304);
+        
+if (myinsertn0 != var_0 + var_12){ myMark=25; }
+
+if (myinsertn24 != var_12 + var_0){ myMark=25; }
+var_29 = ((/* implicit */int) ((((/* implicit */bool) ((((var_12) + (var_0))) + (((-65536) + (var_11)))))) ? (((((/* implicit */bool) ((-33554432) - (-2147483643)))) ? (((-1) + (262140))) : (((var_1) - (var_17))))) : (((((((/* implicit */bool) var_12)) ? (-1) : (var_7))) & (((((/* implicit */bool) var_3)) ? (var_5) : (var_5)))))));
+myinsertn25 = var_12 + var_0;
+
+        var_22 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) var_10)) ? ((-2147483647 - 1)) : (131068)))) ? (((var_3) + (var_17))) : (((((/* implicit */bool) var_14)) ? (var_16) : (var_14))))) + (((((var_0) + (-1))) / (((var_16) + (var_0)))))));
+myinsertn26 = var_3 + var_17;
+
+myinsertn27 = var_16 + var_0;
+
+    }
+
+    var_22 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((var_18) / (1)))) ? (((var_1) / (6))) : (((var_10) / (1)))))) ? (((((/* implicit */bool) ((((/* implicit */bool) 0)) ? (var_17) : (0)))) ? (((var_18) - (var_12))) : (((((/* implicit */bool) var_0)) ? (-1) : (var_6))))) : (((((/* implicit */bool) (((-2147483647 - 1)) - (var_14)))) ? (((var_4) + (-1))) : (-1)))));
+    var_38 = ((/* implicit */int) ((((((/* implicit */bool) ((((/* implicit */bool) 127)) ? (var_19) : ((-2147483647 - 1))))) ? (18) : (((33554431) + (-2147483647))))) + (((((((/* implicit */bool) var_10)) ? (var_11) : (var_14))) + (((((/* implicit */bool) var_1)) ? (var_3) : (-1024)))))));
+    var_29 = ((/* implicit */int) ((((/* implicit */bool) ((((/* implicit */bool) ((245760) - (var_15)))) ? (((((/* implicit */bool) 8192)) ? (0) : (0))) : (((((/* implicit */bool) 0)) ? (1) : (-25)))))) ? (((((var_6) - (var_5))) + (((((/* implicit */bool) var_7)) ? (0) : (var_18))))) : (((((/* implicit */int) ((((/* implicit */bool) 8171)) && (((/* implicit */bool) 1610612736))))) - (((var_2) + (var_14)))))));
+myinsertn28 = var_2 + var_14;
+
+}
